@@ -1,0 +1,7 @@
+#ifndef UNTITLED2_JOGOS_RL_H
+#define UNTITLED2_JOGOS_RL_H
+
+void Stat_RL();
+
+
+#endif //UNTITLED2_JOGOS_RL_H

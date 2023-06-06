@@ -1,0 +1,9 @@
+
+
+#ifndef UNTITLED2_JOGOESPECIAL_H
+#define UNTITLED2_JOGOESPECIAL_H
+
+void menu_JogoEspecial();
+
+
+#endif //UNTITLED2_JOGOESPECIAL_H
